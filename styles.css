@@ -59,6 +59,7 @@ h1 {
   margin: 10px;
   background-color: #fff;
   user-select: none;
+  cursor: pointer;
 }
 
 footer {
